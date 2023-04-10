@@ -7,3 +7,11 @@ Add tomato sauce and cheese.
 Add your the vegetables you picked for the topping.
 Preheat the oven to 475°F.
 Bake for about 10-15 minutes.
+
+Hot N Cold (Algorithm).
+
+-Read the temperature.
+-If temperature is in Farenheit, convert it to Celsius with the following formula:
+-Subtract thee degrees Farenheit 32 and multiply by .5556, e.g ("x"°F - 32) * .5556 = "x"°C.
+-If temperature is in Celsius, convert it to Farenheit with the following formula:
+-Multiply de degrees Celsius by 1.8 and add 32; e.g ("x"°C * 1.8) + 32 = "x"°F.
